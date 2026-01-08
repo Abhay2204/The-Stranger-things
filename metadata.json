@@ -1,0 +1,5 @@
+{
+  "name": "Stranger Things: The Portal",
+  "description": "An immersive, cinematic web experience bridging Hawkins and the Upside Down using React, Framer Motion, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
